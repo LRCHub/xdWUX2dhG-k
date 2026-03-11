@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "十年越しのラストピース",
+  "base_artist": "marasy",
+  "createdAt": "2026-03-11T05:13:38.115817Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "十年越しのラストピース",
+      "artist": "Marasy, 堀江晶太",
+      "has_synced": false,
+      "path": "select/pl_01_十年越しのラストピース_Marasy,_堀江晶太.txt"
+    }
+  ]
+}
